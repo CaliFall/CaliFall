@@ -1,6 +1,7 @@
-![Header](./header.png)
-
-<br>
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=-%20你%20好%20-&fontSize=90&fontAlign=50&fontAlignY=30&desc=This%20is%20CaliFall%20!&descAlign=50&descSize=30&descAlignY=60&animation=fadeIn" />
+</p>
 
 <h3 align="center"> <b><i>科学和神谕，请在我的召唤下降临。</i></b> </h3>
 
@@ -27,7 +28,7 @@
     </table>
 </html>
 
-<br> <br>
+<br>
 
 <p align="center">
     <!-- https://github.com/badges/shields --> 
@@ -54,4 +55,9 @@
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=califall&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph" />
+</p>
+
+<p align="center">
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=-%20EOF%20-&fontSize=90&fontAlign=50&fontAlignY=70&desc=科学和神谕，将在你的召唤下降临。&descAlign=50&descSize=30&descAlignY=40&animation=fadeIn" />
 </p>
