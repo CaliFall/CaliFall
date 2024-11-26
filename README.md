@@ -21,7 +21,7 @@
                 <!--右侧内容-->
                 <a> 正在写一本新的短篇小说《利卡》: </a>
                 <br>
-                <a href="https://github.com/CaliFall/Causeless"><img src="https://github-readme-stats.vercel.app/api/pin/?username=califall&repo=lika&theme=transparent" /></a>
+                <a href="https://github.com/CaliFall/lika"><img src="https://github-readme-stats.vercel.app/api/pin/?username=califall&repo=lika&theme=transparent" /></a>
             </td>  
         </tr>
     </table>
